@@ -1,2 +1,8 @@
-# ensemble-method-for-credit-scoring-model-on-home-credit-default-risk
-The graduation thesis investigates the effectiveness of machine learning approaches for building a predictive model to estimate the likelihood of customer default. An ensemble of machine learning techniques, including traditional, deep, dynamic, and boosting algorithms, is employ.
+**ENSEMBLE METHOD FOR CREDIT SCORING MODEL ON HOME CREDIT DEFAULT RISK DATASET**
+
+The aim of this research is to evaluate the efficacy of ensemble methods in credit scoring and provide practical recommendations for their selection and use. The AUC score of these methods will be compared to traditional machine learning models using the Home Credit Default Risk dataset from a 2018 Kaggle competition, which includes alternative data sources to predict the repayment capacity of clients and ensure a positive loan experience.
+
+The study aims to identify effective ensemble methods for credit scoring under imbalanced data, noisy data, and non-linear variable relationships. It will also investigate the impact of different re-sampling and cross-validation techniques on ensemble methods' performance and interpretability. The analysis will use the Home Credit Default Risk dataset to forecast the risk of default for consumer loans issued by Home Credit, providing a focused and thorough investigation of the research topic.
+
++ Link Home Credit Default Risk dataset: [https://www.kaggle.com/competitions/home-credit-default-risk](url).
++ My pre-processing data: [https://shorturl.at/iouAY](url).
